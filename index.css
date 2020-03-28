@@ -1,0 +1,4 @@
+body { background-image: url(moon.png.png); }
+h1	{ border-style: dashed; color: blue ;text-align: center; text-shadow: 2px 2px black; font-family: "comic sans MS ", serifs; }
+h2	{ text-align: center; color: lightgrey; font-family: "comic sans MS"; font-size: 14px; text-shadow: 2px 2px black }
+p { text-align: justify; color: white; font-family: "Georgia", serifs; font-size: 14px }
